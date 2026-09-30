@@ -18,7 +18,7 @@ intubation or non-invasive ventilation [NIV]) at one of three timepoints (6h, 12
 
 Example use
 --------
-python NeonateICUSep26_primary_analysis.py \
+python Fit_models.py \
     --timepoint 6 --outcome mortality --model random_forest
 
 Notes
